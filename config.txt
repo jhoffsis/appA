@@ -2,4 +2,4 @@ config for App-A
 
 Initial default value
 
-updating to v2
+updating to v3
